@@ -1,0 +1,63 @@
+.bg{
+	background-image: url('../image/form_figure_surface_gray_88073_602x339.jpg');
+	height: 1500px;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+	background-position: center;
+}
+h1{
+	color: red;
+}
+#css{
+	background-color: violet;
+	color: black;
+	opacity: .65;
+}
+.project{
+color: violet;
+}
+.border1{
+	border: 5px dotted blue;
+}
+.border2{
+	border-style: solid;
+	border-bottom-style: dashed;
+	border-width:10px 15px 20px 5px;
+	border-color: tomato;
+	border-left-color: black;
+	border-right-color: black;
+	opacity: 1;
+	height: 30px;
+}
+.border3{
+	border: 2px solid green;
+	border-radius: 50%;
+	height: 40px;
+	width: 600px;
+	margin: 0 auto;
+}
+.box{
+	background-color: black;
+	opacity: 1;
+	color: white;
+	padding: 10px 20px;
+	border: 5px solid red;
+	margin:auto 10%;
+	width: 600px;
+	outline: 5px solid yellow;
+
+}
+.outline{
+	outline:4px dotted green;
+	text-align: justify;
+	text-transform: capitalize;
+	word-spacing: 4px;
+	letter-spacing: 4px;
+	font-size: 25px;
+	line-height: 30px;
+	text-shadow: 3px 4px 1px green;
+
+	text-decoration: underline;
+
+}
